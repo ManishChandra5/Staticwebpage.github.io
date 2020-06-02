@@ -84,7 +84,11 @@ width: 100%;
  .leftside h3:after{
  	content: "";
  	position: absolute;
+<<<<<<< HEAD
  	left: 23%;
+=======
+ 	left: 22%;
+>>>>>>> 6bb34785f9cc3cbbd91f05f614ba860fa1939199
  	top:43%;
  	height:3px;
  	width:450px;
