@@ -66,6 +66,7 @@ width: 100%;
  .rightside{
  	border-radius:40% 80% 80% 40% / 40% 40% 80% 80%  ;
  	background-color: #e8fbff;
+	 padding-right:60px;
  }
  .rightside img{
  	width:400px;
@@ -132,6 +133,15 @@ width: 100%;
  	color: #222;
  	border:2px solid #4458dc;
  	background-color: #fff;
+ 	box-shadow:none;
+ 	background-image: none;
+
+ }
+
+ .leftside .btn2:hover{
+ 	color: #222;
+ 	border:2px solid #4458dc;
+ 	background-color: #1865a2;
  	box-shadow:none;
  	background-image: none;
 
